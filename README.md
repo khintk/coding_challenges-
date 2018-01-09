@@ -21,7 +21,9 @@ Question 3
 How would  you design a stack which, in addition to push and pop, has a function which returns the minimum element? push, pop and min shouuld all operate in O(1) time. 
 
 Question 4
+
 Given a directed graph, design an algorithm to find out whether there is a route between two nodes. 
 
 Question 5
+
 Given a real number between 0 and 1 (e.g., 0.72) that is passed in as a double, print the binary representation. If the number cannot be represented accurately in binary with at most 32 characters, print "ERROR".
